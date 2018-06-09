@@ -74,15 +74,15 @@ export default {
     },
     onClick (event) {
       if (speechSynthesis.speaking) return
-      const y = this.yasai === "なし" ? "" : this.yasai
-      const n = this.ninniku === "なし" ? "" : this.ninniku
-      const a = this.abura === "なし" ? "" : this.abura
+      const y = this.yasai === "なし" ? "" : 'ヤサイ' + this.yasai
+      const n = this.ninniku === "なし" ? "" : 'ニンニク' + this.ninniku
+      const a = this.abura === "なし" ? "" : 'アブラ' + this.abura
       const k = this.karame === "しない" ? "" : "カラメ"
 
       const speech = new SpeechSynthesisUtterance()
-      speech.text = `ヤサイ${y}ニンニク${n}アブラ${a}${k}`
+      speech.text = `${y}${n}${a}${k}`
       speech.lang = "ja-JP"
-      speech.pitch = 1
+      speech.pitch = 0.3
       speechSynthesis.speak(speech)
     }
   }
