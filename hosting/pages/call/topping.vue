@@ -82,7 +82,7 @@ export default {
       const speech = new SpeechSynthesisUtterance()
       speech.text = `${y}${n}${a}${k}`
       speech.lang = "ja-JP"
-      speech.pitch = 0.3
+      speech.rate = 0.7
       speechSynthesis.speak(speech)
     }
   }
