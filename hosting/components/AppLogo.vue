@@ -1,79 +1,26 @@
 <template>
-  <div class="VueToNuxtLogo">
-    <div class="Triangle Triangle--two"/>
-    <div class="Triangle Triangle--one"/>
-    <div class="Triangle Triangle--three"/>
-    <div class="Triangle Triangle--four"/>
+  <div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1481.63 558.71">
+      <title>logo</title>
+      <text transform="translate(283.4 501.77)" style="font-size:141.66371154785156px;fill:#ffce00;font-family:TsukuARdGothic-Bold-83pv-RKSJ-H, Tsukushi A Round Gothic;font-weight:700">
+        <tspan style="letter-spacing:0.25000061934024em">-</tspan>
+        <tspan x="103.7" y="0">ミヤコー</tspan>
+        <tspan x="670.35" y="0" style="letter-spacing:0.25000061934024em">ル</tspan>
+        <tspan x="847.43" y="0">-</tspan>
+      </text>
+      <path d="M147.06,895.18" class="miyacall" transform="translate(-120.46 -425.73)" style="fill:#ffec00"/>
+      <path class="miyacall" d="M120.46,834.06l4.92-407.74h13.77l129.39,129,129.25-129h30.37V698.53H368.43V531.66L261.76,638.13l-74-74.51,1.14,221.11Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M488.94,456.15V425.73H549.5v30.42Zm0,242.49V486.28H549.5V698.64Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M606.68,726.16q2.13,30.14,30.14,30.13h30.41a29.49,29.49,0,0,0,21.4-8.88,28.81,28.81,0,0,0,9-21.25V665.32q-3.55,30.42-30.42,30.42H636.82q-24.89,0-42.72-17.84t-17.84-42.71V483.38h60.56V635.19a30.42,30.42,0,0,0,60.83,0V483.38h60.56V726.16q0,24.72-18,42.64t-42.57,17.91H636.82q-53.6,0-60.56-60.55Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M896.52,574.35V544.22A30.7,30.7,0,0,0,866.1,513.8H835.68q-26.86,0-30.13,30.42H775.13q7-60.84,60.55-60.84h60.84q24.87,0,42.71,18t17.84,42.86V695.74H896.52V665.32Q893,695.74,866.1,695.74H835.68q-24.87,0-42.71-17.84t-17.84-42.71v-.29q0-24.87,17.91-42.71t42.64-17.84Zm0,30.42H866.1a29.38,29.38,0,0,0-21.46,8.88,28.91,28.91,0,0,0-9,21.25v.29a30.42,30.42,0,0,0,60.84,0Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1178.94,653.3q-4,60.54-60.56,60.55h-60.83q-24.88,0-42.72-17.84T997,653.3V501.49q0-24.45,17.56-42.5t43-18.05h60.83q57.15,0,60.56,60.55h-30.42q-3.55-30.14-30.14-30.13H1088a29.42,29.42,0,0,0-21.47,8.88,28.88,28.88,0,0,0-9,21.25V653.3A30.44,30.44,0,0,0,1088,683.43h30.41q26.73,0,30.14-30.13Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1318.86,592.46V562.33a30.68,30.68,0,0,0-30.42-30.42H1258q-26.87,0-30.14,30.42h-30.42q7-60.84,60.56-60.84h60.83q24.89,0,42.72,18t17.84,42.86V713.85h-60.56V683.43q-3.55,30.42-30.42,30.42H1258q-24.88,0-42.72-17.84t-17.84-42.71V653q0-24.87,17.91-42.71T1258,592.46Zm0,30.42h-30.42a29.39,29.39,0,0,0-21.46,8.88,28.9,28.9,0,0,0-9,21.25v.29a30.42,30.42,0,0,0,60.83,0Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1409.55,713.85V440.94h60.55V713.85Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1532.51,798.83l-1.58-357.89h60.56L1599,817.85Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1516.6,904.61c45-59.18,57.12-130,35.76-179.72,55.06,63.7,66.79,148.73,23.17,206.13-35,46-96.49,62.48-158.72,48.72C1452.79,967.29,1488.57,941.49,1516.6,904.61Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M1452.52,878c63.92-38,101.75-99,100.64-153.14,27.1,79.71,6,162.93-55.94,199.74-49.66,29.49-112.89,21.67-165.4-14.45C1369.84,912.15,1412.69,901.68,1452.52,878Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M206,868.77c-45-59.19-57.12-130-35.76-179.73-55,63.71-66.79,148.74-23.16,206.14,34.94,46,96.48,62.47,158.71,48.72C269.8,931.45,234,905.65,206,868.77Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+      <path class="miyacall" d="M254.34,842.18c-63.92-38-101.75-99-100.64-153.14-27.1,79.72-6,162.94,55.94,199.75,49.66,29.49,112.89,21.67,165.4-14.45C337,876.31,294.17,865.84,254.34,842.18Z" transform="translate(-120.46 -425.73)" style="fill:#ffce00"/>
+    </svg>
   </div>
 </template>
-
-<style>
-.VueToNuxtLogo {
-  display: inline-block;
-  animation: turn 2s linear forwards 1s;
-  transform: rotateX(180deg);
-  position: relative;
-  overflow: hidden;
-  height: 180px;
-  width: 245px;
-}
-
-.Triangle {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 0;
-}
-
-.Triangle--one {
-  border-left: 105px solid transparent;
-  border-right: 105px solid transparent;
-  border-bottom: 180px solid #41B883;
-}
-
-.Triangle--two {
-  top: 30px;
-  left: 35px;
-  animation: goright 0.5s linear forwards 3.5s;
-  border-left: 87.5px solid transparent;
-  border-right: 87.5px solid transparent;
-  border-bottom: 150px solid #3B8070;
-}
-
-.Triangle--three {
-  top: 60px;
-  left: 35px;
-  animation: goright 0.5s linear forwards 3.5s;
-  border-left: 70px solid transparent;
-  border-right: 70px solid transparent;
-  border-bottom: 120px solid #35495E;
-}
-
-.Triangle--four {
-  top: 120px;
-  left: 70px;
-  animation: godown 0.5s linear forwards 3s;
-  border-left: 35px solid transparent;
-  border-right: 35px solid transparent;
-  border-bottom: 60px solid #fff;
-}
-
-@keyframes turn {
-  100% {
-    transform: rotateX(0deg);
-  }
-}
-
-@keyframes godown {
-  100% {
-    top: 180px;
-  }
-}
-
-@keyframes goright {
-  100% {
-    left: 70px;
-  }
-}
-</style>
