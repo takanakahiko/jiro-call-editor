@@ -5,7 +5,7 @@
         <img src="~/assets/logo.svg" class="logo">
       </div>
       <div class="top-body">
-        <nuxt-link to="mode/noodle" tag="div" class="toNoodleBtn">
+        <nuxt-link to="call/noodle" tag="div" class="toNoodleBtn">
           <el-button type="danger" plain>入店する</el-button>
         </nuxt-link>
         <div class="card-wrapper">
