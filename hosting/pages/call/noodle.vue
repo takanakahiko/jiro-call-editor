@@ -21,5 +21,6 @@ export default {};
 <style>
 .root-container {
   padding: 2.5em;
+  margin-top: 70px;
 }
 </style>
