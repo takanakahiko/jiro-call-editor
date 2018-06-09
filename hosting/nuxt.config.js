@@ -17,6 +17,19 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+  modules: [
+    '@nuxtjs/axios'
+  ],
+  axios: {
+    credentials: false,
+    baseURL: process.env.NODE_ENV == 'production' ? '' : ''
+  },
+  plugins: [
+    '~plugins/element-ui'
+  ],
+  css: [
+    'element-ui/lib/theme-chalk/index.css'
+  ],
   /*
   ** Build configuration
   */
