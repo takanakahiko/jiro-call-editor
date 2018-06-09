@@ -3,7 +3,9 @@
     <el-card class="box-card">
       <div slot="header" class="clearfix">
         <span>麺の量・硬さの指定</span>
-        <el-button style="float: right; padding: 3px 0" type="text">着席した！</el-button>
+        <nuxt-link to="/call/topping">
+          <el-button style="float: right; padding: 3px 0" type="text">着席した！</el-button>
+        </nuxt-link>
       </div>
       <div class="text">
         食券を購入し列に並んでいると、店員さんに食券の色を聞かれます。<br>
