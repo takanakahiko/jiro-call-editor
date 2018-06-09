@@ -20,7 +20,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .root-container {
   padding: 2.5em;
   margin-top: 70px;
