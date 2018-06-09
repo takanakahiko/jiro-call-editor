@@ -7,12 +7,9 @@
         </nuxt-link>
       </div>
       <div class="header-menu">
-        <nuxt-link to="/call/mode" class="enter-shop">
-          入店
+        <nuxt-link to="/call/noodle" class="enter-shop">
+          <el-button type="success" round size="mini">入店</el-button>
         </nuxt-link>
-        <div class="login">
-          ログイン
-        </div>
       </div>
     </div>
   </header>
@@ -60,10 +57,6 @@ header {
 .header-menu {
   display: flex;
   align-items: center;
-}
-
-.enter-shop {
-  margin-right: 10px;
 }
 
 .login {
