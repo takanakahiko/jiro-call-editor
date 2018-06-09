@@ -37,7 +37,7 @@ jobs:
             - hosting/node_modules
       - run:
           name: Build WebApp
-          command: cd hosting && yarn build && cd ..
+          command: cd hosting && yarn generate && cd ..
       - persist_to_workspace:
           root: .
           paths:
